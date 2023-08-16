@@ -1,0 +1,843 @@
+,name,company,year,price,kms_driven,fuel_type
+0,Tomato Big(Nepali),Tomato Big(Nepali),2007,35,37.5,kg
+1,Tomato Small(Local),Tomato Small(Local),2006,26,29.0,kg
+2,Potato Red,Potato Red,2018,20,20.5,kg
+3,Potato White,Potato White,2014,15,15.5,kg
+4,Onion Dry (Indian),Onion Dry (Indian),2014,28,29.0,kg
+5,Carrot(Local),Carrot(Local),2015,30,32.5,kg
+6,Cabbage(Local),Cabbage(Local),2012,6,8.0,kg
+7,Cauli Local,Cauli Local,2013,30,32.5,kg
+8,Raddish Red,Raddish Red,2016,35,37.5,kg
+9,Raddish White(Local),Raddish White(Local),2015,25,27.5,kg
+10,Brinjal Long,Brinjal Long,2010,16,17.0,kg
+11,Brinjal Round,Brinjal Round,2015,20,21.0,kg
+12,Cow pea(Long),Cow pea(Long),2014,20,22.5,kg
+13,Green Peas,Green Peas,2015,55,57.5,kg
+14,French Bean(Local),French Bean(Local),2007,25,27.5,kg
+15,Soyabean Green,Soyabean Green,2006,60,65.0,kg
+16,Bitter Gourd,Bitter Gourd,2017,14,15.0,kg
+17,Bottle Gourd,Bottle Gourd,2014,15,17.5,kg
+18,Pointed Gourd(Local),Pointed Gourd(Local),2016,30,32.5,kg
+19,Snake Gourd,Snake Gourd,2014,25,27.5,kg
+20,Smooth Gourd,Smooth Gourd,2016,20,22.5,kg
+21,Sponge Gourd,Sponge Gourd,2016,45,47.5,kg
+22,Pumpkin,Pumpkin,2015,18,19.0,kg
+23,Squash(Long),Squash(Long),2012,30,32.5,kg
+24,Turnip,Turnip,2012,45,47.5,kg
+25,Okara,Okara,2012,20,22.5,kg
+26,Christophine,Christophine,2017,38,39.0,kg
+27,Brd Leaf Mustard,Brd Leaf Mustard,2016,45,47.5,kg
+28,Spinach Leaf,Spinach Leaf,2008,50,52.5,kg
+29,Cress Leaf,Cress Leaf,2017,55,57.5,kg
+30,Mustard Leaf,Mustard Leaf,2014,40,42.5,kg
+31,Fenugreek Leaf,Fenugreek Leaf,2015,55,57.5,kg
+32,Onion Green,Onion Green,2017,40,42.5,kg
+33,Mushroom(Kanya),Mushroom(Kanya),2013,150,155.0,kg
+34,Asparagus,Asparagus,2013,100,125.0,kg
+35,Neuro,Neuro,2012,50,55.0,kg
+36,Brocauli,Brocauli,2018,70,75.0,kg
+37,Sugarbeet,Sugarbeet,2012,35,37.5,kg
+38,Drumstick,Drumstick,2017,35,37.5,kg
+39,Red Cabbbage,Red Cabbbage,2012,70,75.0,kg
+40,Lettuce,Lettuce,2013,55,57.5,kg
+41,Celery,Celery,2011,120,125.0,kg
+42,Parseley,Parseley,2015,180,185.0,kg
+43,Fennel Leaf,Fennel Leaf,2013,70,75.0,kg
+44,Mint,Mint,2013,120,125.0,kg
+45,Turnip A,Turnip A,2015,40,42.5,kg
+46,Tamarind,Tamarind,2015,65,67.5,kg
+47,Bamboo Shoot,Bamboo Shoot,2017,50,55.0,kg
+48,Tofu,Tofu,2010,55,57.5,kg
+49,Gundruk,Gundruk,2015,180,185.0,kg
+50,Apple(Jholey),Apple(Jholey),2017,100,110.0,kg
+51,Banana,Banana,2014,70,75.0,kg
+52,Lime,Lime,2015,200,300.0,kg
+53,Pomegranate,Pomegranate,2017,200,210.0,kg
+54,Mango(Maldah),Mango(Maldah),2013,50,55.0,kg
+55,Grapes(Green),Grapes(Green),2013,250,255.0,kg
+56,Water Melon(Green),Water Melon(Green),2015,15,16.5,kg
+57,Sweet Orange,Sweet Orange,2017,90,95.0,kg
+58,Pineapple,Pineapple,2017,60,65.0,kg
+59,Cucumber(Local),Cucumber(Local),2013,25,27.5,kg
+60,Jack Fruit,Jack Fruit,2012,20,22.5,kg
+61,Papaya(Nepali),Papaya(Nepali),2013,60,65.0,kg
+62,Sugarcane,Sugarcane,2017,50,55.0,kg
+63,Ginger,Ginger,2016,140,145.0,kg
+64,Chilli Dry,Chilli Dry,2017,170,175.0,kg
+65,Chilli Green,Chilli Green,2012,30,35.0,kg
+66,Capsicum,Capsicum,2014,55,57.5,kg
+67,Garlic Green,Garlic Green,2010,45,47.5,kg
+68,Coriander Green,Coriander Green,2015,90,100.0,kg
+69,Garlic Dry Chinese,Garlic Dry Chinese,2017,100,105.0,kg
+70,Garlic Dry Nepali,Garlic Dry Nepali,2010,50,55.0,kg
+71,Clive Dry,Clive Dry,2012,70,75.0,kg
+72,Clive Green,Clive Green,2015,70,75.0,kg
+73,Fish Fresh,Fish Fresh,2013,210,215.0,kg
+74,Tomato Big(Nepali),Tomato Big(Nepali),2017,25,27.5,kg
+75,Tomato Small(Local),Tomato Small(Local),2011,20,22.5,kg
+76,Potato Red,Potato Red,2015,20,20.5,kg
+77,Potato White,Potato White,2015,15,15.5,kg
+78,Onion Dry (Indian),Onion Dry (Indian),2014,29,29.5,kg
+79,Carrot(Local),Carrot(Local),2013,35,37.5,kg
+80,Cabbage(Local),Cabbage(Local),2015,6,8.0,kg
+81,Cauli Local,Cauli Local,2014,25,27.5,kg
+82,Raddish Red,Raddish Red,2013,35,37.5,kg
+83,Raddish White(Local),Raddish White(Local),2017,30,32.5,kg
+84,Brinjal Long,Brinjal Long,2012,18,19.0,kg
+85,Brinjal Round,Brinjal Round,2017,25,27.5,kg
+86,Cow pea(Long),Cow pea(Long),2019,20,22.5,kg
+87,Green Peas,Green Peas,2009,55,57.5,kg
+88,French Bean(Local),French Bean(Local),2010,30,32.5,kg
+89,Soyabean Green,Soyabean Green,2008,55,57.5,kg
+90,Bitter Gourd,Bitter Gourd,2009,16,18.0,kg
+91,Bottle Gourd,Bottle Gourd,2005,18,19.0,kg
+92,Pointed Gourd(Local),Pointed Gourd(Local),2014,30,32.5,kg
+93,Snake Gourd,Snake Gourd,2011,30,32.5,kg
+94,Smooth Gourd,Smooth Gourd,2011,15,17.5,kg
+95,Sponge Gourd,Sponge Gourd,2011,45,47.5,kg
+96,Pumpkin,Pumpkin,2013,18,19.0,kg
+97,Squash(Long),Squash(Long),2012,20,22.5,kg
+98,Okara,Okara,2014,18,20.0,kg
+99,Christophine,Christophine,2012,35,37.5,kg
+100,Brd Leaf Mustard,Brd Leaf Mustard,2009,40,42.5,kg
+101,Spinach Leaf,Spinach Leaf,2013,45,47.5,kg
+102,Cress Leaf,Cress Leaf,2014,40,42.5,kg
+103,Mustard Leaf,Mustard Leaf,2015,35,37.5,kg
+104,Fenugreek Leaf,Fenugreek Leaf,2013,40,42.5,kg
+105,Onion Green,Onion Green,2016,40,42.5,kg
+106,Mushroom(Kanya),Mushroom(Kanya),2014,180,190.0,kg
+107,Asparagus,Asparagus,2016,100,125.0,kg
+108,Neuro,Neuro,2013,50,55.0,kg
+109,Brocauli,Brocauli,2012,70,75.0,kg
+110,Sugarbeet,Sugarbeet,2014,35,37.5,kg
+111,Drumstick,Drumstick,2014,45,47.5,kg
+112,Red Cabbbage,Red Cabbbage,2012,60,65.0,kg
+113,Lettuce,Lettuce,2014,45,47.5,kg
+114,Celery,Celery,2015,120,125.0,kg
+115,Parseley,Parseley,2014,180,185.0,kg
+116,Fennel Leaf,Fennel Leaf,2007,40,42.5,kg
+117,Mint,Mint,2014,120,125.0,kg
+118,Turnip A,Turnip A,2009,45,47.5,kg
+119,Tamarind,Tamarind,2013,65,67.5,kg
+120,Bamboo Shoot,Bamboo Shoot,2013,50,55.0,kg
+121,Tofu,Tofu,2015,55,57.5,kg
+122,Gundruk,Gundruk,2014,190,195.0,kg
+123,Apple(Jholey),Apple(Jholey),2011,110,120.0,kg
+124,Banana,Banana,2012,70,75.0,kg
+125,Lime,Lime,2017,200,300.0,kg
+126,Pomegranate,Pomegranate,2011,200,210.0,kg
+127,Mango(Maldah),Mango(Maldah),2007,50,55.0,kg
+128,Grapes(Green),Grapes(Green),2018,250,255.0,kg
+129,Water Melon(Green),Water Melon(Green),2013,14,15.0,kg
+130,Sweet Orange,Sweet Orange,2015,90,95.0,kg
+131,Pineapple,Pineapple,2015,60,65.0,kg
+132,Cucumber(Local),Cucumber(Local),2009,25,27.5,kg
+133,Jack Fruit,Jack Fruit,2010,20,22.5,kg
+134,Papaya(Nepali),Papaya(Nepali),2016,60,65.0,kg
+135,Sugarcane,Sugarcane,2009,60,65.0,kg
+136,Ginger,Ginger,2013,140,145.0,kg
+137,Chilli Dry,Chilli Dry,2006,170,175.0,kg
+138,Chilli Green,Chilli Green,2018,30,35.0,kg
+139,Capsicum,Capsicum,2000,55,57.5,kg
+140,Garlic Green,Garlic Green,2010,45,47.5,kg
+141,Coriander Green,Coriander Green,2012,90,95.0,kg
+142,Garlic Dry Chinese,Garlic Dry Chinese,2012,100,105.0,kg
+143,Garlic Dry Nepali,Garlic Dry Nepali,2014,50,55.0,kg
+144,Clive Dry,Clive Dry,2015,70,75.0,kg
+145,Clive Green,Clive Green,2014,50,55.0,kg
+146,Fish Fresh,Fish Fresh,2015,210,215.0,kg
+147,Tomato Big(Nepali),Tomato Big(Nepali),2014,25,27.5,kg
+148,Tomato Small(Local),Tomato Small(Local),2015,22,24.0,kg
+149,Potato Red,Potato Red,2012,19,19.5,kg
+150,Potato White,Potato White,2018,15,15.5,kg
+151,Onion Dry (Indian),Onion Dry (Indian),2016,33,34.0,kg
+152,Carrot(Local),Carrot(Local),2013,35,37.5,kg
+153,Cabbage(Local),Cabbage(Local),2017,8,9.0,kg
+154,Cauli Local,Cauli Local,2014,25,27.5,kg
+155,Raddish Red,Raddish Red,2011,35,37.5,kg
+156,Raddish White(Local),Raddish White(Local),2018,30,32.5,kg
+157,Brinjal Long,Brinjal Long,2010,20,22.5,kg
+158,Brinjal Round,Brinjal Round,2016,25,27.5,kg
+159,Cow pea(Long),Cow pea(Long),2010,25,27.5,kg
+160,Green Peas,Green Peas,2012,55,57.5,kg
+161,French Bean(Local),French Bean(Local),2010,30,32.5,kg
+162,Soyabean Green,Soyabean Green,2013,55,57.5,kg
+163,Bitter Gourd,Bitter Gourd,2014,16,19.0,kg
+164,Bottle Gourd,Bottle Gourd,2010,22,23.0,kg
+165,Pointed Gourd(Local),Pointed Gourd(Local),2011,30,32.5,kg
+166,Snake Gourd,Snake Gourd,2011,30,32.5,kg
+167,Smooth Gourd,Smooth Gourd,2012,20,22.5,kg
+168,Pumpkin,Pumpkin,2014,18,19.0,kg
+169,Squash(Long),Squash(Long),2011,18,19.0,kg
+170,Turnip,Turnip,2015,45,47.5,kg
+171,Okara,Okara,2014,20,22.5,kg
+172,Christophine,Christophine,2011,40,42.5,kg
+173,Brd Leaf Mustard,Brd Leaf Mustard,2013,40,42.5,kg
+174,Spinach Leaf,Spinach Leaf,2015,45,47.5,kg
+175,Cress Leaf,Cress Leaf,2014,45,47.5,kg
+176,Mustard Leaf,Mustard Leaf,2012,35,37.5,kg
+177,Fenugreek Leaf,Fenugreek Leaf,2011,40,42.5,kg
+178,Onion Green,Onion Green,2013,35,37.5,kg
+179,Mushroom(Kanya),Mushroom(Kanya),2015,180,190.0,kg
+180,Asparagus,Asparagus,2012,100,110.0,kg
+181,Neuro,Neuro,2014,50,55.0,kg
+182,Brocauli,Brocauli,2009,70,75.0,kg
+183,Sugarbeet,Sugarbeet,2016,35,37.5,kg
+184,Drumstick,Drumstick,2015,35,37.5,kg
+185,Lettuce,Lettuce,2013,35,37.5,kg
+186,Celery,Celery,2008,120,125.0,kg
+187,Parseley,Parseley,2011,180,190.0,kg
+188,Fennel Leaf,Fennel Leaf,2013,40,42.5,kg
+189,Mint,Mint,2005,120,125.0,kg
+190,Turnip A,Turnip A,2016,45,47.5,kg
+191,Tamarind,Tamarind,2000,65,67.5,kg
+192,Bamboo Shoot,Bamboo Shoot,2015,50,55.0,kg
+193,Tofu,Tofu,2017,55,57.5,kg
+194,Apple(Jholey),Apple(Jholey),2007,110,115.0,kg
+195,Banana,Banana,2012,70,75.0,kg
+196,Lime,Lime,2006,200,300.0,kg
+197,Pomegranate,Pomegranate,2011,200,210.0,kg
+198,Mango(Maldah),Mango(Maldah),2011,50,55.0,kg
+199,Grapes(Green),Grapes(Green),2013,250,255.0,kg
+200,Water Melon(Green),Water Melon(Green),2013,12,13.5,kg
+201,Sweet Orange,Sweet Orange,2009,90,95.0,kg
+202,Pineapple,Pineapple,2006,60,65.0,kg
+203,Cucumber(Local),Cucumber(Local),2012,25,27.5,kg
+204,Papaya(Nepali),Papaya(Nepali),2010,55,57.5,kg
+205,Sugarcane,Sugarcane,2010,50,55.0,kg
+206,Ginger,Ginger,2009,140,145.0,kg
+207,Chilli Dry,Chilli Dry,2015,170,175.0,kg
+208,Chilli Green,Chilli Green,2013,35,37.5,kg
+209,Capsicum,Capsicum,2014,55,57.5,kg
+210,Garlic Green,Garlic Green,2015,45,47.5,kg
+211,Coriander Green,Coriander Green,2012,90,95.0,kg
+212,Garlic Dry Chinese,Garlic Dry Chinese,2019,100,105.0,kg
+213,Garlic Dry Nepali,Garlic Dry Nepali,2012,50,55.0,kg
+214,Clive Dry,Clive Dry,2013,70,75.0,kg
+215,Clive Green,Clive Green,2015,50,55.0,kg
+216,Fish Fresh,Fish Fresh,2012,210,215.0,kg
+217,Tomato Big(Nepali),Tomato Big(Nepali),2019,25,27.5,kg
+218,Tomato Small(Local),Tomato Small(Local),2015,24,26.0,kg
+219,Potato Red,Potato Red,2018,20,20.5,kg
+220,Potato White,Potato White,2011,15,15.5,kg
+221,Onion Dry (Indian),Onion Dry (Indian),2015,34,34.5,kg
+222,Carrot(Local),Carrot(Local),2008,38,40.0,kg
+223,Cabbage(Local),Cabbage(Local),2006,10,12.5,kg
+224,Cauli Local,Cauli Local,2016,25,27.5,kg
+225,Raddish Red,Raddish Red,2016,35,37.5,kg
+226,Raddish White(Local),Raddish White(Local),2015,30,32.5,kg
+227,Brinjal Long,Brinjal Long,2009,22,24.0,kg
+228,Brinjal Round,Brinjal Round,2015,25,27.5,kg
+229,Cow pea(Long),Cow pea(Long),2015,25,27.5,kg
+230,Green Peas,Green Peas,2017,55,57.5,kg
+231,French Bean(Local),French Bean(Local),2014,30,32.5,kg
+232,Soyabean Green,Soyabean Green,2014,55,57.5,kg
+233,Bitter Gourd,Bitter Gourd,2016,20,22.5,kg
+234,Bottle Gourd,Bottle Gourd,2016,18,19.0,kg
+235,Pointed Gourd(Local),Pointed Gourd(Local),2016,30,32.5,kg
+236,Snake Gourd,Snake Gourd,2016,25,27.5,kg
+237,Smooth Gourd,Smooth Gourd,2014,20,22.5,kg
+238,Sponge Gourd,Sponge Gourd,2013,40,42.5,kg
+239,Pumpkin,Pumpkin,2012,18,19.0,kg
+240,Squash(Long),Squash(Long),2015,15,17.5,kg
+241,Turnip,Turnip,2015,45,47.5,kg
+242,Okara,Okara,2009,35,37.5,kg
+243,Christophine,Christophine,2015,35,37.5,kg
+244,Brd Leaf Mustard,Brd Leaf Mustard,2015,40,42.5,kg
+245,Spinach Leaf,Spinach Leaf,2015,40,42.5,kg
+246,Cress Leaf,Cress Leaf,2013,40,42.5,kg
+247,Mustard Leaf,Mustard Leaf,2017,35,37.5,kg
+248,Fenugreek Leaf,Fenugreek Leaf,2013,40,42.5,kg
+249,Onion Green,Onion Green,2013,40,42.5,kg
+250,Mushroom(Kanya),Mushroom(Kanya),2012,180,190.0,kg
+251,Asparagus,Asparagus,2013,100,112.5,kg
+252,Neuro,Neuro,2003,40,45.0,kg
+253,Brocauli,Brocauli,2006,70,75.0,kg
+254,Sugarbeet,Sugarbeet,2015,45,47.5,kg
+255,Red Cabbbage,Red Cabbbage,2013,70,75.0,kg
+256,Lettuce,Lettuce,2012,55,57.5,kg
+257,Celery,Celery,2014,120,125.0,kg
+258,Parseley,Parseley,2015,180,185.0,kg
+259,Fennel Leaf,Fennel Leaf,2014,45,47.5,kg
+260,Mint,Mint,2007,120,125.0,kg
+261,Turnip A,Turnip A,2014,45,47.5,kg
+262,Tamarind,Tamarind,2009,65,67.5,kg
+263,Bamboo Shoot,Bamboo Shoot,2013,50,55.0,kg
+264,Tofu,Tofu,2010,55,57.5,kg
+265,Gundruk,Gundruk,2015,180,185.0,kg
+266,Apple(Jholey),Apple(Jholey),2013,110,115.0,kg
+267,Banana,Banana,2015,70,75.0,kg
+268,Lime,Lime,2013,200,300.0,kg
+269,Pomegranate,Pomegranate,2014,200,210.0,kg
+270,Mango(Maldah),Mango(Maldah),2015,50,55.0,kg
+271,Grapes(Green),Grapes(Green),2013,250,255.0,kg
+272,Water Melon(Green),Water Melon(Green),2018,14,15.0,kg
+273,Sweet Orange,Sweet Orange,2003,90,95.0,kg
+274,Pineapple,Pineapple,2018,70,75.0,kg
+275,Cucumber(Local),Cucumber(Local),2018,30,32.5,kg
+276,Jack Fruit,Jack Fruit,2014,20,22.5,kg
+277,Papaya(Nepali),Papaya(Nepali),2014,60,62.5,kg
+278,Sugarcane,Sugarcane,2011,50,55.0,kg
+279,Ginger,Ginger,2010,140,145.0,kg
+280,Chilli Dry,Chilli Dry,2016,170,175.0,kg
+281,Chilli Green,Chilli Green,2000,35,37.5,kg
+282,Capsicum,Capsicum,2015,55,57.5,kg
+283,Coriander Green,Coriander Green,2010,90,95.0,kg
+284,Garlic Dry Chinese,Garlic Dry Chinese,2013,100,105.0,kg
+285,Garlic Dry Nepali,Garlic Dry Nepali,2008,50,55.0,kg
+286,Clive Dry,Clive Dry,2015,70,75.0,kg
+287,Clive Green,Clive Green,2011,50,55.0,kg
+288,Fish Fresh,Fish Fresh,2016,210,215.0,kg
+289,Tomato Big(Nepali),Tomato Big(Nepali),2006,25,27.5,kg
+290,Potato Red,Potato Red,2010,20,20.5,kg
+291,Potato White,Potato White,2016,15,15.5,kg
+292,Onion Dry (Indian),Onion Dry (Indian),2013,35,35.5,kg
+293,Carrot(Local),Carrot(Local),2013,40,41.0,kg
+294,Cabbage(Local),Cabbage(Local),2008,10,12.5,kg
+295,Cauli Local,Cauli Local,2013,20,22.5,kg
+296,Raddish Red,Raddish Red,2009,35,37.5,kg
+297,Raddish White(Local),Raddish White(Local),2019,28,30.0,kg
+298,Brinjal Long,Brinjal Long,2004,20,22.5,kg
+299,Brinjal Round,Brinjal Round,2017,25,27.5,kg
+300,Cow pea(Long),Cow pea(Long),2009,30,32.5,kg
+301,Green Peas,Green Peas,2015,55,57.5,kg
+302,French Bean(Local),French Bean(Local),2013,30,35.0,kg
+303,Soyabean Green,Soyabean Green,2014,50,52.5,kg
+304,Bitter Gourd,Bitter Gourd,2015,20,22.5,kg
+305,Bottle Gourd,Bottle Gourd,2014,20,22.5,kg
+306,Pointed Gourd(Local),Pointed Gourd(Local),2012,30,32.5,kg
+307,Snake Gourd,Snake Gourd,2011,30,32.5,kg
+308,Smooth Gourd,Smooth Gourd,2007,20,22.5,kg
+309,Sponge Gourd,Sponge Gourd,2014,45,47.5,kg
+310,Pumpkin,Pumpkin,2015,18,19.0,kg
+311,Squash(Long),Squash(Long),2014,15,17.5,kg
+312,Turnip,Turnip,2009,40,42.5,kg
+313,Okara,Okara,2014,35,37.5,kg
+314,Christophine,Christophine,2012,35,37.5,kg
+315,Brd Leaf Mustard,Brd Leaf Mustard,2015,40,42.5,kg
+316,Spinach Leaf,Spinach Leaf,2018,45,47.5,kg
+317,Cress Leaf,Cress Leaf,2015,45,47.5,kg
+318,Mustard Leaf,Mustard Leaf,2014,35,37.5,kg
+319,Fenugreek Leaf,Fenugreek Leaf,2012,45,47.5,kg
+320,Onion Green,Onion Green,2016,35,37.5,kg
+321,Mushroom(Kanya),Mushroom(Kanya),2016,200,210.0,kg
+322,Asparagus,Asparagus,2015,100,110.0,kg
+323,Neuro,Neuro,2014,50,55.0,kg
+324,Brocauli,Brocauli,2013,70,75.0,kg
+325,Sugarbeet,Sugarbeet,2013,35,37.5,kg
+326,Drumstick,Drumstick,2013,45,47.5,kg
+327,Red Cabbbage,Red Cabbbage,2010,70,75.0,kg
+328,Lettuce,Lettuce,2016,45,47.5,kg
+329,Celery,Celery,2012,120,125.0,kg
+330,Parseley,Parseley,2013,170,175.0,kg
+331,Fennel Leaf,Fennel Leaf,2012,45,47.5,kg
+332,Mint,Mint,2013,120,125.0,kg
+333,Turnip A,Turnip A,2012,50,55.0,kg
+334,Tamarind,Tamarind,2013,65,67.5,kg
+335,Bamboo Shoot,Bamboo Shoot,2013,50,55.0,kg
+336,Tofu,Tofu,2016,55,57.5,kg
+337,Gundruk,Gundruk,2015,180,185.0,kg
+338,Apple(Jholey),Apple(Jholey),2013,110,115.0,kg
+339,Banana,Banana,2014,70,75.0,kg
+340,Lime,Lime,2015,200,300.0,kg
+341,Pomegranate,Pomegranate,2012,190,195.0,kg
+342,Mango(Maldah),Mango(Maldah),2017,50,55.0,kg
+343,Grapes(Green),Grapes(Green),2014,250,255.0,kg
+344,Water Melon(Green),Water Melon(Green),2014,14,15.0,kg
+345,Sweet Orange,Sweet Orange,2012,90,95.0,kg
+346,Pineapple,Pineapple,2015,60,65.0,kg
+347,Cucumber(Local),Cucumber(Local),2017,30,32.5,kg
+348,Jack Fruit,Jack Fruit,2011,20,22.5,kg
+349,Papaya(Nepali),Papaya(Nepali),2010,55,55.0,kg
+350,Sugarcane,Sugarcane,2014,50,55.0,kg
+351,Ginger,Ginger,2013,140,145.0,kg
+352,Chilli Dry,Chilli Dry,2011,170,175.0,kg
+353,Chilli Green,Chilli Green,2012,40,45.0,kg
+354,Capsicum,Capsicum,2018,50,52.5,kg
+355,Coriander Green,Coriander Green,2015,50,55.0,kg
+356,Garlic Dry Chinese,Garlic Dry Chinese,2010,100,105.0,kg
+357,Garlic Dry Nepali,Garlic Dry Nepali,2009,50,55.0,kg
+358,Clive Dry,Clive Dry,2019,70,75.0,kg
+359,Clive Green,Clive Green,2012,70,75.0,kg
+360,Fish Fresh,Fish Fresh,2016,210,215.0,kg
+361,Tomato Big(Nepali),Tomato Big(Nepali),2014,25,27.5,kg
+362,Potato Red,Potato Red,2013,21,21.5,kg
+363,Potato White,Potato White,2015,16,16.5,kg
+364,Onion Dry (Indian),Onion Dry (Indian),2013,34,34.5,kg
+365,Carrot(Local),Carrot(Local),2011,40,42.5,kg
+366,Cabbage(Local),Cabbage(Local),2015,8,10.0,kg
+367,Cauli Local,Cauli Local,2012,20,22.0,kg
+368,Raddish Red,Raddish Red,2003,35,37.5,kg
+369,Raddish White(Local),Raddish White(Local),2019,25,27.5,kg
+370,Brinjal Long,Brinjal Long,2011,18,20.0,kg
+371,Brinjal Round,Brinjal Round,2015,25,27.5,kg
+372,Cow pea(Long),Cow pea(Long),2016,30,32.5,kg
+373,Green Peas,Green Peas,2008,55,57.5,kg
+374,French Bean(Local),French Bean(Local),2018,35,37.5,kg
+375,Soyabean Green,Soyabean Green,2006,55,57.5,kg
+376,Bitter Gourd,Bitter Gourd,2017,18,20.0,kg
+377,Bottle Gourd,Bottle Gourd,2010,20,21.0,kg
+378,Snake Gourd,Snake Gourd,2014,35,37.5,kg
+379,Smooth Gourd,Smooth Gourd,2012,18,20.0,kg
+380,Sponge Gourd,Sponge Gourd,2018,45,47.5,kg
+381,Pumpkin,Pumpkin,1995,18,19.0,kg
+382,Squash(Long),Squash(Long),2011,18,19.0,kg
+383,Turnip,Turnip,2015,45,47.5,kg
+384,Okara,Okara,2014,45,50.0,kg
+385,Christophine,Christophine,2015,35,37.5,kg
+386,Brd Leaf Mustard,Brd Leaf Mustard,2012,45,47.5,kg
+387,Cress Leaf,Cress Leaf,2004,45,47.5,kg
+388,Mustard Leaf,Mustard Leaf,2016,35,37.5,kg
+389,Fenugreek Leaf,Fenugreek Leaf,2011,45,47.5,kg
+390,Onion Green,Onion Green,2002,35,37.5,kg
+391,Mushroom(Kanya),Mushroom(Kanya),2013,180,190.0,kg
+392,Neuro,Neuro,2000,50,55.0,kg
+393,Brocauli,Brocauli,2006,70,75.0,kg
+394,Sugarbeet,Sugarbeet,2001,35,37.5,kg
+395,Drumstick,Drumstick,2017,45,47.5,kg
+396,Red Cabbbage,Red Cabbbage,2018,70,75.0,kg
+397,Lettuce,Lettuce,2011,40,42.5,kg
+398,Celery,Celery,2017,120,125.0,kg
+399,Parseley,Parseley,2011,180,185.0,kg
+400,Fennel Leaf,Fennel Leaf,2009,45,47.5,kg
+401,Mint,Mint,2017,120,125.0,kg
+402,Turnip A,Turnip A,2001,45,47.5,kg
+403,Tamarind,Tamarind,2012,65,67.5,kg
+404,Tofu,Tofu,2014,55,57.5,kg
+405,Gundruk,Gundruk,2016,180,185.0,kg
+406,Apple(Jholey),Apple(Jholey),2012,110,115.0,kg
+407,Banana,Banana,2016,70,75.0,kg
+408,Lime,Lime,2013,200,300.0,kg
+409,Pomegranate,Pomegranate,2015,200,205.0,kg
+410,Mango(Maldah),Mango(Maldah),2014,40,45.0,kg
+411,Grapes(Green),Grapes(Green),2012,250,255.0,kg
+412,Water Melon(Green),Water Melon(Green),2017,16,17.0,kg
+413,Sweet Orange,Sweet Orange,2010,90,95.0,kg
+414,Pineapple,Pineapple,2018,60,65.0,kg
+415,Cucumber(Local),Cucumber(Local),2015,25,27.5,kg
+416,Jack Fruit,Jack Fruit,2019,15,17.5,kg
+417,Papaya(Nepali),Papaya(Nepali),2015,55,57.5,kg
+418,Sugarcane,Sugarcane,2001,50,55.0,kg
+419,Ginger,Ginger,2010,130,135.0,kg
+420,Chilli Dry,Chilli Dry,2010,170,175.0,kg
+421,Garlic Green,Garlic Green,2013,45,47.5,kg
+422,Coriander Green,Coriander Green,2016,50,60.0,kg
+423,Garlic Dry Chinese,Garlic Dry Chinese,2013,100,105.0,kg
+424,Garlic Dry Nepali,Garlic Dry Nepali,2016,50,55.0,kg
+425,Clive Dry,Clive Dry,2010,70,75.0,kg
+426,Clive Green,Clive Green,2015,50,55.0,kg
+427,Fish Fresh,Fish Fresh,2015,210,215.0,kg
+428,Tomato Small(Local),Tomato Small(Local),2014,25,27.5,kg
+429,Potato Red,Potato Red,2016,23,24.0,kg
+430,Potato White,Potato White,2017,17,17.5,kg
+431,Onion Dry (Indian),Onion Dry (Indian),2011,33,34.0,kg
+432,Carrot(Local),Carrot(Local),2011,40,42.5,kg
+433,Cabbage(Local),Cabbage(Local),2013,10,12.5,kg
+434,Cauli Local,Cauli Local,2012,20,22.5,kg
+435,Raddish Red,Raddish Red,2011,40,42.5,kg
+436,Raddish White(Local),Raddish White(Local),2015,20,22.5,kg
+437,Brinjal Long,Brinjal Long,2012,35,37.5,kg
+438,Brinjal Round,Brinjal Round,2018,30,32.5,kg
+439,Cow pea(Long),Cow pea(Long),2009,40,42.5,kg
+440,Green Peas,Green Peas,2010,55,57.5,kg
+441,French Bean(Local),French Bean(Local),2016,35,37.5,kg
+442,Soyabean Green,Soyabean Green,2016,50,52.5,kg
+443,Bitter Gourd,Bitter Gourd,2015,25,27.5,kg
+444,Bottle Gourd,Bottle Gourd,2015,30,32.5,kg
+445,Pointed Gourd(Local),Pointed Gourd(Local),2017,35,37.5,kg
+446,Snake Gourd,Snake Gourd,2016,30,32.5,kg
+447,Smooth Gourd,Smooth Gourd,2011,25,27.5,kg
+448,Sponge Gourd,Sponge Gourd,2015,45,47.5,kg
+449,Pumpkin,Pumpkin,2017,18,19.0,kg
+450,Squash(Long),Squash(Long),2015,15,17.5,kg
+451,Okara,Okara,2004,40,42.5,kg
+452,Arum,Arum,2018,28,30.0,kg
+453,Christophine,Christophine,2015,35,37.5,kg
+454,Brd Leaf Mustard,Brd Leaf Mustard,2008,40,42.5,kg
+455,Spinach Leaf,Spinach Leaf,2003,45,47.5,kg
+456,Cress Leaf,Cress Leaf,2011,45,47.5,kg
+457,Mustard Leaf,Mustard Leaf,2015,35,37.5,kg
+458,Fenugreek Leaf,Fenugreek Leaf,2015,40,42.5,kg
+459,Onion Green,Onion Green,2015,40,42.5,kg
+460,Mushroom(Kanya),Mushroom(Kanya),2016,150,160.0,kg
+461,Asparagus,Asparagus,2015,100,112.5,kg
+462,Neuro,Neuro,2009,50,55.0,kg
+463,Brocauli,Brocauli,2016,70,75.0,kg
+464,Sugarbeet,Sugarbeet,2018,35,37.5,kg
+465,Red Cabbbage,Red Cabbbage,2017,70,75.0,kg
+466,Lettuce,Lettuce,2014,45,47.5,kg
+467,Celery,Celery,2010,120,125.0,kg
+468,Parseley,Parseley,2013,180,185.0,kg
+469,Fennel Leaf,Fennel Leaf,2015,45,47.5,kg
+470,Mint,Mint,2013,120,125.0,kg
+471,Turnip A,Turnip A,2019,45,47.5,kg
+472,Tamarind,Tamarind,2001,65,67.5,kg
+473,Bamboo Shoot,Bamboo Shoot,2015,50,55.0,kg
+474,Tofu,Tofu,2004,55,57.5,kg
+475,Gundruk,Gundruk,2014,180,185.0,kg
+476,Apple(Jholey),Apple(Jholey),2016,110,120.0,kg
+477,Banana,Banana,2017,60,65.0,kg
+478,Lime,Lime,2016,200,300.0,kg
+479,Pomegranate,Pomegranate,2007,230,240.0,kg
+480,Mango(Maldah),Mango(Maldah),2015,50,55.0,kg
+481,Grapes(Green),Grapes(Green),2014,250,255.0,kg
+482,Water Melon(Green),Water Melon(Green),2013,17,17.5,kg
+483,Sweet Orange,Sweet Orange,2005,90,95.0,kg
+484,Pineapple,Pineapple,2003,60,65.0,kg
+485,Cucumber(Local),Cucumber(Local),2010,25,27.5,kg
+486,Jack Fruit,Jack Fruit,2014,20,22.5,kg
+487,Papaya(Nepali),Papaya(Nepali),2007,55,57.5,kg
+488,Sugarcane,Sugarcane,2017,50,55.0,kg
+489,Ginger,Ginger,2015,140,145.0,kg
+490,Chilli Dry,Chilli Dry,2003,170,175.0,kg
+491,Chilli Green,Chilli Green,2008,30,35.0,kg
+492,Capsicum,Capsicum,2016,70,75.0,kg
+493,Garlic Green,Garlic Green,2010,45,47.5,kg
+494,Coriander Green,Coriander Green,2019,45,47.5,kg
+495,Garlic Dry Chinese,Garlic Dry Chinese,2010,100,105.0,kg
+496,Garlic Dry Nepali,Garlic Dry Nepali,2016,50,55.0,kg
+497,Clive Dry,Clive Dry,2015,70,75.0,kg
+498,Clive Green,Clive Green,2014,50,55.0,kg
+499,Fish Fresh,Fish Fresh,2014,210,215.0,kg
+500,Tomato Big(Nepali),Tomato Big(Nepali),2002,30,32.5,kg
+501,Tomato Small(Local),Tomato Small(Local),2010,20,22.5,kg
+502,Potato Red,Potato Red,2017,22,22.5,kg
+503,Potato White,Potato White,2016,17,17.5,kg
+504,Onion Dry (Indian),Onion Dry (Indian),2015,33,34.0,kg
+505,Carrot(Local),Carrot(Local),2017,35,37.5,kg
+506,Cabbage(Local),Cabbage(Local),2014,10,12.5,kg
+507,Cauli Local,Cauli Local,2013,18,20.0,kg
+508,Raddish Red,Raddish Red,2016,35,37.5,kg
+509,Raddish White(Local),Raddish White(Local),2015,20,22.5,kg
+510,Brinjal Long,Brinjal Long,2009,30,32.5,kg
+511,Cow pea(Long),Cow pea(Long),2016,30,32.5,kg
+512,Green Peas,Green Peas,2013,55,57.5,kg
+513,French Bean(Local),French Bean(Local),2012,35,37.5,kg
+514,Soyabean Green,Soyabean Green,2006,45,47.5,kg
+515,Bitter Gourd,Bitter Gourd,2001,20,25.0,kg
+516,Bottle Gourd,Bottle Gourd,2015,30,31.0,kg
+517,Pointed Gourd(Local),Pointed Gourd(Local),2015,35,37.5,kg
+518,Snake Gourd,Snake Gourd,2018,30,32.5,kg
+519,Smooth Gourd,Smooth Gourd,2009,20,22.5,kg
+520,Sponge Gourd,Sponge Gourd,2010,45,47.5,kg
+521,Pumpkin,Pumpkin,2012,16,18.0,kg
+522,Squash(Long),Squash(Long),2006,20,22.5,kg
+523,Turnip,Turnip,2007,45,47.5,kg
+524,Okara,Okara,2012,35,37.5,kg
+525,Arum,Arum,2003,30,32.5,kg
+526,Christophine,Christophine,2009,35,37.5,kg
+527,Brd Leaf Mustard,Brd Leaf Mustard,2009,40,42.5,kg
+528,Spinach Leaf,Spinach Leaf,2010,45,47.5,kg
+529,Cress Leaf,Cress Leaf,2016,45,47.5,kg
+530,Mustard Leaf,Mustard Leaf,2019,35,37.5,kg
+531,Fenugreek Leaf,Fenugreek Leaf,2009,45,47.5,kg
+532,Onion Green,Onion Green,2009,35,37.5,kg
+533,Mushroom(Kanya),Mushroom(Kanya),2000,150,155.0,kg
+534,Asparagus,Asparagus,2009,100,115.0,kg
+535,Neuro,Neuro,2012,40,45.0,kg
+536,Brocauli,Brocauli,2017,70,75.0,kg
+537,Sugarbeet,Sugarbeet,2013,35,37.5,kg
+538,Red Cabbbage,Red Cabbbage,2013,70,75.0,kg
+539,Lettuce,Lettuce,2005,40,45.0,kg
+540,Celery,Celery,2011,120,125.0,kg
+541,Parseley,Parseley,2010,170,175.0,kg
+542,Fennel Leaf,Fennel Leaf,2009,45,47.5,kg
+543,Mint,Mint,2013,120,125.0,kg
+544,Turnip A,Turnip A,2014,45,47.5,kg
+545,Tamarind,Tamarind,2015,65,67.5,kg
+546,Tofu,Tofu,2011,55,57.5,kg
+547,Gundruk,Gundruk,2014,180,185.0,kg
+548,Apple(Jholey),Apple(Jholey),2018,110,120.0,kg
+549,Banana,Banana,2014,60,65.0,kg
+550,Lime,Lime,2006,200,300.0,kg
+551,Pomegranate,Pomegranate,2013,220,230.0,kg
+552,Mango(Maldah),Mango(Maldah),2016,50,55.0,kg
+553,Grapes(Green),Grapes(Green),2019,250,255.0,kg
+554,Water Melon(Green),Water Melon(Green),2011,15,16.5,kg
+555,Sweet Orange,Sweet Orange,2009,90,95.0,kg
+556,Pineapple,Pineapple,2012,60,65.0,kg
+557,Cucumber(Local),Cucumber(Local),2013,30,32.5,kg
+558,Jack Fruit,Jack Fruit,2014,20,22.5,kg
+559,Papaya(Nepali),Papaya(Nepali),2017,50,55.0,kg
+560,Sugarcane,Sugarcane,2009,50,55.0,kg
+561,Ginger,Ginger,2014,130,135.0,kg
+562,Chilli Dry,Chilli Dry,2004,170,175.0,kg
+563,Chilli Green,Chilli Green,2016,25,27.5,kg
+564,Capsicum,Capsicum,2011,90,95.0,kg
+565,Garlic Green,Garlic Green,2015,45,47.5,kg
+566,Coriander Green,Coriander Green,2013,40,45.0,kg
+567,Garlic Dry Chinese,Garlic Dry Chinese,2010,95,97.5,kg
+568,Garlic Dry Nepali,Garlic Dry Nepali,2012,50,55.0,kg
+569,Clive Dry,Clive Dry,2018,70,75.0,kg
+570,Clive Green,Clive Green,2017,50,55.0,kg
+571,Fish Fresh,Fish Fresh,2013,210,215.0,kg
+572,Tomato Big(Nepali),Tomato Big(Nepali),2016,30,32.5,kg
+573,Tomato Small(Local),Tomato Small(Local),2011,18,21.0,kg
+574,Potato Red,Potato Red,2014,22,23.0,kg
+575,Potato White,Potato White,2016,19,19.5,kg
+576,Onion Dry (Indian),Onion Dry (Indian),2016,35,36.0,kg
+577,Carrot(Local),Carrot(Local),2004,40,41.0,kg
+578,Cauli Local,Cauli Local,2015,25,27.5,kg
+579,Raddish Red,Raddish Red,2013,35,37.5,kg
+580,Raddish White(Local),Raddish White(Local),2015,20,22.5,kg
+581,Brinjal Long,Brinjal Long,2009,35,37.5,kg
+582,Brinjal Round,Brinjal Round,2010,35,37.5,kg
+583,French Bean(Local),French Bean(Local),2013,38,40.0,kg
+584,Soyabean Green,Soyabean Green,2010,45,47.5,kg
+585,Bitter Gourd,Bitter Gourd,2006,25,27.5,kg
+586,Bottle Gourd,Bottle Gourd,2012,28,30.0,kg
+587,Pointed Gourd(Local),Pointed Gourd(Local),2014,35,37.5,kg
+588,Snake Gourd,Snake Gourd,2017,35,37.5,kg
+589,Smooth Gourd,Smooth Gourd,2010,20,22.5,kg
+590,Sponge Gourd,Sponge Gourd,2009,4,24.5,kg
+591,Squash(Long),Squash(Long),2017,20,22.0,kg
+592,Turnip,Turnip,2009,25,27.5,kg
+593,Okara,Okara,2010,35,37.5,kg
+594,Arum,Arum,2014,35,37.5,kg
+595,Christophine,Christophine,2018,38,39.0,kg
+596,Spinach Leaf,Spinach Leaf,2018,40,42.5,kg
+597,Mustard Leaf,Mustard Leaf,2013,35,37.5,kg
+598,Fenugreek Leaf,Fenugreek Leaf,2014,40,42.5,kg
+599,Onion Green,Onion Green,2002,40,42.5,kg
+600,Mushroom(Kanya),Mushroom(Kanya),2006,170,175.0,kg
+601,Asparagus,Asparagus,2012,100,112.5,kg
+602,Neuro,Neuro,2011,50,55.0,kg
+603,Sugarbeet,Sugarbeet,2012,35,37.5,kg
+604,Lettuce,Lettuce,2018,45,47.5,kg
+605,Celery,Celery,2012,120,125.0,kg
+606,Parseley,Parseley,2007,170,175.0,kg
+607,Fennel Leaf,Fennel Leaf,2002,45,47.5,kg
+608,Mint,Mint,2011,120,125.0,kg
+609,Turnip A,Turnip A,2008,40,42.5,kg
+610,Tamarind,Tamarind,2014,65,67.5,kg
+611,Bamboo Shoot,Bamboo Shoot,2017,50,55.0,kg
+612,Tofu,Tofu,2003,55,57.5,kg
+613,Gundruk,Gundruk,2015,180,185.0,kg
+614,Banana,Banana,2011,50,55.0,kg
+615,Lime,Lime,2011,200,300.0,kg
+616,Pomegranate,Pomegranate,2012,220,230.0,kg
+617,Mango(Maldah),Mango(Maldah),2017,50,55.0,kg
+618,Grapes(Green),Grapes(Green),2012,250,255.0,kg
+619,Water Melon(Green),Water Melon(Green),2012,18,19.0,kg
+620,Sweet Orange,Sweet Orange,2012,90,95.0,kg
+621,Cucumber(Local),Cucumber(Local),2012,30,32.5,kg
+622,Papaya(Nepali),Papaya(Nepali),2010,55,57.5,kg
+623,Sugarcane,Sugarcane,2015,50,55.0,kg
+624,Ginger,Ginger,2016,130,135.0,kg
+625,Chilli Dry,Chilli Dry,2015,170,175.0,kg
+626,Chilli Green,Chilli Green,2012,25,27.5,kg
+627,Capsicum,Capsicum,2016,90,95.0,kg
+628,Garlic Green,Garlic Green,2015,45,47.5,kg
+629,Coriander Green,Coriander Green,2014,30,35.0,kg
+630,Garlic Dry Chinese,Garlic Dry Chinese,2003,90,95.0,kg
+631,Garlic Dry Nepali,Garlic Dry Nepali,2016,50,55.0,kg
+632,Clive Dry,Clive Dry,2013,70,75.0,kg
+633,Clive Green,Clive Green,2012,50,55.0,kg
+634,Fish Fresh,Fish Fresh,2010,210,215.0,kg
+635,Tomato Big(Nepali),Tomato Big(Nepali),2008,30,32.5,kg
+636,Tomato Small(Local),Tomato Small(Local),2012,24,26.0,kg
+637,Potato Red,Potato Red,2016,23,23.5,kg
+638,Potato White,Potato White,2011,19,19.5,kg
+639,Onion Dry (Indian),Onion Dry (Indian),2014,36,37.0,kg
+640,Carrot(Local),Carrot(Local),2011,40,41.0,kg
+641,Cabbage(Local),Cabbage(Local),2016,10,12.0,kg
+642,Cauli Local,Cauli Local,2015,25,27.5,kg
+643,Raddish Red,Raddish Red,2013,35,37.5,kg
+644,Raddish White(Local),Raddish White(Local),2014,25,27.5,kg
+645,Brinjal Long,Brinjal Long,2011,35,37.5,kg
+646,Cow pea(Long),Cow pea(Long),2015,40,45.0,kg
+647,French Bean(Local),French Bean(Local),2012,35,37.5,kg
+648,Soyabean Green,Soyabean Green,2016,40,42.5,kg
+649,Bitter Gourd,Bitter Gourd,2013,25,27.5,kg
+650,Bottle Gourd,Bottle Gourd,2016,25,27.5,kg
+651,Pointed Gourd(Local),Pointed Gourd(Local),2014,35,37.5,kg
+652,Snake Gourd,Snake Gourd,2011,28,30.0,kg
+653,Smooth Gourd,Smooth Gourd,2005,25,27.5,kg
+654,Sponge Gourd,Sponge Gourd,2016,40,42.5,kg
+655,Pumpkin,Pumpkin,2017,16,18.0,kg
+656,Squash(Long),Squash(Long),2018,18,20.0,kg
+657,Okara,Okara,2015,35,37.5,kg
+658,Arum,Arum,2017,35,37.5,kg
+659,Christophine,Christophine,2014,35,37.5,kg
+660,Brd Leaf Mustard,Brd Leaf Mustard,2009,35,37.5,kg
+661,Spinach Leaf,Spinach Leaf,2004,40,42.5,kg
+662,Cress Leaf,Cress Leaf,2009,40,42.5,kg
+663,Mustard Leaf,Mustard Leaf,2015,35,37.5,kg
+664,Fenugreek Leaf,Fenugreek Leaf,2014,40,42.5,kg
+665,Onion Green,Onion Green,2009,35,37.5,kg
+666,Mushroom(Kanya),Mushroom(Kanya),2012,150,160.0,kg
+667,Asparagus,Asparagus,2013,100,112.5,kg
+668,Neuro,Neuro,2015,50,55.0,kg
+669,Sugarbeet,Sugarbeet,2014,35,37.5,kg
+670,Red Cabbbage,Red Cabbbage,2015,70,75.0,kg
+671,Lettuce,Lettuce,2012,45,47.5,kg
+672,Celery,Celery,2011,120,125.0,kg
+673,Parseley,Parseley,2018,170,175.0,kg
+674,Fennel Leaf,Fennel Leaf,2009,45,47.5,kg
+675,Mint,Mint,2004,120,125.0,kg
+676,Turnip A,Turnip A,2011,45,47.5,kg
+677,Tamarind,Tamarind,2017,65,67.5,kg
+678,Bamboo Shoot,Bamboo Shoot,2019,60,65.0,kg
+679,Tofu,Tofu,2006,55,57.5,kg
+680,Gundruk,Gundruk,2008,180,185.0,kg
+681,Apple(Jholey),Apple(Jholey),2014,110,115.0,kg
+682,Banana,Banana,2016,50,55.0,kg
+683,Lime,Lime,2009,200,300.0,kg
+684,Pomegranate,Pomegranate,2004,220,230.0,kg
+685,Mango(Maldah),Mango(Maldah),2015,50,55.0,kg
+686,Grapes(Green),Grapes(Green),2014,250,255.0,kg
+687,Water Melon(Green),Water Melon(Green),2018,18,19.0,kg
+688,Sweet Orange,Sweet Orange,2009,90,95.0,kg
+689,Pineapple,Pineapple,2016,60,65.0,kg
+690,Cucumber(Local),Cucumber(Local),2013,30,32.5,kg
+691,Jack Fruit,Jack Fruit,2009,18,19.0,kg
+692,Papaya(Nepali),Papaya(Nepali),2004,50,55.0,kg
+693,Sugarcane,Sugarcane,2014,50,55.0,kg
+694,Ginger,Ginger,2016,130,135.0,kg
+695,Chilli Dry,Chilli Dry,2015,170,175.0,kg
+696,Chilli Green,Chilli Green,2018,30,35.0,kg
+697,Capsicum,Capsicum,2009,90,95.0,kg
+698,Garlic Green,Garlic Green,2008,45,47.5,kg
+699,Garlic Dry Chinese,Garlic Dry Chinese,2011,90,95.0,kg
+700,Clive Dry,Clive Dry,2009,70,75.0,kg
+701,Clive Green,Clive Green,2015,70,75.0,kg
+702,Tomato Big(Nepali),Tomato Big(Nepali),2011,25,27.5,kg
+703,Tomato Small(Local),Tomato Small(Local),2003,18,20.0,kg
+704,Potato Red,Potato Red,2015,23,23.5,kg
+705,Potato White,Potato White,2015,19,19.5,kg
+706,Onion Dry (Indian),Onion Dry (Indian),2015,36,37.0,kg
+707,Carrot(Local),Carrot(Local),2013,40,42.5,kg
+708,Cabbage(Local),Cabbage(Local),2013,12,13.5,kg
+709,Cauli Local,Cauli Local,2007,30,35.0,kg
+710,Raddish Red,Raddish Red,2014,45,47.5,kg
+711,Raddish White(Local),Raddish White(Local),2019,25,27.5,kg
+712,Brinjal Long,Brinjal Long,2007,35,37.5,kg
+713,Brinjal Round,Brinjal Round,2009,40,42.5,kg
+714,Cow pea(Long),Cow pea(Long),2011,40,42.5,kg
+715,French Bean(Local),French Bean(Local),2007,38,39.0,kg
+716,Soyabean Green,Soyabean Green,2009,40,42.5,kg
+717,Bitter Gourd,Bitter Gourd,2011,28,30.0,kg
+718,Bottle Gourd,Bottle Gourd,2017,30,31.0,kg
+719,Pointed Gourd(Local),Pointed Gourd(Local),2007,30,32.5,kg
+720,Snake Gourd,Snake Gourd,2005,28,29.0,kg
+721,Smooth Gourd,Smooth Gourd,2017,25,27.5,kg
+722,Sponge Gourd,Sponge Gourd,2005,40,42.5,kg
+723,Pumpkin,Pumpkin,2015,16,18.0,kg
+724,Squash(Long),Squash(Long),2004,15,16.5,kg
+725,Okara,Okara,2012,40,42.5,kg
+726,Arum,Arum,2012,35,37.5,kg
+727,Christophine,Christophine,2013,38,39.0,kg
+728,Brd Leaf Mustard,Brd Leaf Mustard,2014,35,37.5,kg
+729,Spinach Leaf,Spinach Leaf,2014,40,42.5,kg
+730,Cress Leaf,Cress Leaf,2015,35,37.5,kg
+731,Fenugreek Leaf,Fenugreek Leaf,2012,45,47.5,kg
+732,Onion Green,Onion Green,2005,35,37.5,kg
+733,Mushroom(Kanya),Mushroom(Kanya),2018,120,150.0,kg
+734,Asparagus,Asparagus,2019,110,120.0,kg
+735,Neuro,Neuro,2019,50,55.0,kg
+736,Red Cabbbage,Red Cabbbage,2006,70,75.0,kg
+737,Lettuce,Lettuce,2018,45,47.5,kg
+738,Celery,Celery,2014,120,125.0,kg
+739,Parseley,Parseley,1995,170,175.0,kg
+740,Fennel Leaf,Fennel Leaf,2007,45,47.5,kg
+741,Mint,Mint,2007,120,125.0,kg
+742,Turnip A,Turnip A,2002,45,47.5,kg
+743,Maize,Maize,2009,5,5.5,kg
+744,Tamarind,Tamarind,2008,65,67.5,kg
+745,Bamboo Shoot,Bamboo Shoot,2017,60,65.0,kg
+746,Tofu,Tofu,2012,55,57.5,kg
+747,Gundruk,Gundruk,2015,180,185.0,kg
+748,Apple(Jholey),Apple(Jholey),2007,110,115.0,kg
+749,Banana,Banana,2009,40,45.0,kg
+750,Lime,Lime,2014,200,300.0,kg
+751,Pomegranate,Pomegranate,2015,220,230.0,kg
+752,Mango(Maldah),Mango(Maldah),2006,50,55.0,kg
+753,Water Melon(Green),Water Melon(Green),2017,24,24.5,kg
+754,Sweet Orange,Sweet Orange,2010,100,105.0,kg
+755,Pineapple,Pineapple,2011,70,75.0,kg
+756,Cucumber(Local),Cucumber(Local),2013,28,31.5,kg
+757,Jack Fruit,Jack Fruit,2003,15,17.5,kg
+758,Sweet Lime,Sweet Lime,2017,55,57.5,kg
+759,Sugarcane,Sugarcane,2009,50,55.0,kg
+760,Ginger,Ginger,2009,130,135.0,kg
+761,Chilli Dry,Chilli Dry,2016,170,175.0,kg
+762,Chilli Green,Chilli Green,2014,40,45.0,kg
+763,Garlic Green,Garlic Green,2011,55,57.5,kg
+764,Garlic Dry Chinese,Garlic Dry Chinese,2013,90,95.0,kg
+765,Carrot(Local),Carrot(Local),2013,45,47.5,kg
+766,Bitter Gourd,Bitter Gourd,2013,25,27.5,kg
+767,Bottle Gourd,Bottle Gourd,2017,30,32.5,kg
+768,Pointed Gourd(Local),Pointed Gourd(Local),2009,30,32.5,kg
+769,Snake Gourd,Snake Gourd,2016,35,37.5,kg
+770,Smooth Gourd,Smooth Gourd,2013,20,22.5,kg
+771,Sponge Gourd,Sponge Gourd,2014,40,42.5,kg
+772,Pumpkin,Pumpkin,2015,16,18.0,kg
+773,Squash(Long),Squash(Long),2005,15,17.5,kg
+774,Okara,Okara,2005,40,42.5,kg
+775,Arum,Arum,2019,28,30.0,kg
+776,Christophine,Christophine,2010,40,41.0,kg
+777,Brd Leaf Mustard,Brd Leaf Mustard,2017,35,37.5,kg
+778,Spinach Leaf,Spinach Leaf,2009,40,42.5,kg
+779,Cress Leaf,Cress Leaf,2016,40,42.5,kg
+780,Mustard Leaf,Mustard Leaf,2014,35,37.5,kg
+781,Fenugreek Leaf,Fenugreek Leaf,2008,40,42.5,kg
+782,Onion Green,Onion Green,2005,35,37.5,kg
+783,Mushroom(Kanya),Mushroom(Kanya),2014,160,170.0,kg
+784,Asparagus,Asparagus,2012,120,125.0,kg
+785,Neuro,Neuro,2010,50,55.0,kg
+786,Sugarbeet,Sugarbeet,2011,35,37.5,kg
+787,Red Cabbbage,Red Cabbbage,2000,60,65.0,kg
+788,Lettuce,Lettuce,2016,50,55.0,kg
+789,Celery,Celery,2019,120,125.0,kg
+790,Parseley,Parseley,2016,170,175.0,kg
+791,Fennel Leaf,Fennel Leaf,2019,40,42.5,kg
+792,Mint,Mint,2005,120,125.0,kg
+793,Turnip A,Turnip A,2006,45,47.5,kg
+794,Maize,Maize,2016,5,6.0,kg
+795,Tamarind,Tamarind,2008,65,67.5,kg
+796,Bamboo Shoot,Bamboo Shoot,2019,50,55.0,kg
+797,Tofu,Tofu,2011,55,57.5,kg
+798,Apple(Jholey),Apple(Jholey),2016,110,115.0,kg
+799,Banana,Banana,2019,40,45.0,kg
+800,Lime,Lime,2019,200,300.0,kg
+801,Pomegranate,Pomegranate,2017,200,205.0,kg
+802,Mango(Maldah),Mango(Maldah),2009,50,55.0,kg
+803,Grapes(Green),Grapes(Green),2000,250,255.0,kg
+804,Water Melon(Green),Water Melon(Green),2011,20,22.5,kg
+805,Sweet Orange,Sweet Orange,2013,100,105.0,kg
+806,Pineapple,Pineapple,2015,60,65.0,kg
+807,Cucumber(Local),Cucumber(Local),2003,25,27.5,kg
+808,Jack Fruit,Jack Fruit,2006,15,17.5,kg
+809,Papaya(Nepali),Papaya(Nepali),2018,55,57.5,kg
+810,Sugarcane,Sugarcane,2015,50,55.0,kg
+811,Ginger,Ginger,2019,140,145.0,kg
+812,Chilli Dry,Chilli Dry,2013,170,175.0,kg
+813,Chilli Green,Chilli Green,2009,40,45.0,kg
+814,Capsicum,Capsicum,2003,80,85.0,kg
+815,Garlic Green,Garlic Green,2004,40,42.5,kg
+816,Coriander Green,Coriander Green,2016,60,65.0,kg
+817,Garlic Dry Chinese,Garlic Dry Chinese,2009,90,95.0,kg
+818,Clive Dry,Clive Dry,2017,70,75.0,kg
+819,Clive Green,Clive Green,2013,50,55.0,kg
+820,Fish Fresh,Fish Fresh,2016,210,217.5,kg
+821,Tomato Big(Nepali),Tomato Big(Nepali),2016,30,32.5,kg
+822,Tomato Small(Local),Tomato Small(Local),2011,15,17.5,kg
+823,Potato Red,Potato Red,2011,23,23.5,kg
+824,Potato White,Potato White,2007,18,19.0,kg
+825,Onion Dry (Indian),Onion Dry (Indian),2016,38,39.0,kg
+826,Carrot(Local),Carrot(Local),2018,45,47.5,kg
+827,Cabbage(Local),Cabbage(Local),2016,10,12.0,kg
+828,Cauli Local,Cauli Local,2016,25,27.5,kg
+829,Raddish White(Local),Raddish White(Local),2006,30,32.5,kg
+830,Brinjal Long,Brinjal Long,2006,30,32.5,kg
+831,Cow pea(Long),Cow pea(Long),2005,40,45.0,kg
+832,French Bean(Local),French Bean(Local),2009,35,37.5,kg
+833,Soyabean Green,Soyabean Green,2009,35,37.5,kg
+834,Bitter Gourd,Bitter Gourd,2015,25,27.5,kg
+835,Bottle Gourd,Bottle Gourd,2011,35,37.5,kg
+836,Snake Gourd,Snake Gourd,2009,30,32.5,kg
+837,Smooth Gourd,Smooth Gourd,2009,25,27.5,kg
+838,Pumpkin,Pumpkin,2018,16,18.0,kg
+839,Squash(Long),Squash(Long),2013,30,32.5,kg
+840,Okara,Okara,2014,38,40.0,kg
+841,Arum,Arum,2014,28,29.0,kg
